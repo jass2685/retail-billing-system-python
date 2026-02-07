@@ -32,3 +32,12 @@ This project is a GUI-based Retail Billing System built using Python and Tkinter
 ## 👤 Author
 **Jass**  
 B.Tech CSE | Punjabi University, Patiala
+## 🔧 Setup Instructions
+
+1. Install Python 3.x
+2. Clone the repository:
+   git clone https://github.com/jass2685/retail-billing-system-python.git
+3. Navigate to project folder:
+   cd retail-billing-system-python
+4. Run the application:
+   python retail_billing_system.py
