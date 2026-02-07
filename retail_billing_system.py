@@ -552,4 +552,5 @@ printbutton.grid(row=0,column=3,pady=20,padx=9)
 clearbutton=Button(buttonframe,text='Clear',font=('calibri',16,'bold'),bg='grey2',fg='white',bd=5,width=8,pady=10,command=clear)
 clearbutton.grid(row=0,column=4,pady=20,padx=9)
 
+
 root.mainloop()                     
